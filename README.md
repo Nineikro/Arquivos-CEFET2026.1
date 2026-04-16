@@ -1,2 +1,5 @@
-# Arquivos-CEFET2026.1
-Repositório para acompanhamento dos trabalhos realizados na matéria Estrutura de Arquivos no CEFETRJ.
+# Trabalhos de Organização de Estruturas de Arquivos
+
+**Alunos:**
+* Carlos Felipe de Araujo Pereira
+* Nina Kushidonti Escarlate Fonseca
