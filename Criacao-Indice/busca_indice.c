@@ -1,3 +1,5 @@
+//Alunos: Carlos Felipe de A. Pereira e Nina K. E. Fonseca
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
